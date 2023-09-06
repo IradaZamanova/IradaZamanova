@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="100"/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazY0d2c3YWZkZG44NTVpOGY2eGlmZ2h6Yjg1dThmbHdrNnZlYnAzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 * 🌍  I'm based in Baku
 * ✉️  You can contact me at [ledimaksim@mail.ru](mailto:ledimaksim@mail.ru)
 * 🧠  I'm learning a new framework
@@ -29,8 +33,4 @@
   </a>
 </div>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/IradaZamanova"><img src="https://github-readme-stats.vercel.app/api?username=IradaZamanova&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="IradaZamanova's GitHub stats" /></a>
