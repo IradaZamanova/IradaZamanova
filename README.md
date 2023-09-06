@@ -18,11 +18,16 @@
 ### Socials
 
 <div id="badges">
-https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge
-https://img.shields.io/badge/Facebook-navy?logo=facebook&logoColor=white&style=for-the-badge
-https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Facebook-navy?logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
-
 
 ### Badges
 
