@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="100"/>
 </div>
-=============================================================================================================================
 
 * 🌍  I'm based in Baku
 * ✉️  You can contact me at [ledimaksim@mail.ru](mailto:ledimaksim@mail.ru)
