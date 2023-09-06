@@ -2,10 +2,14 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazY0d2c3YWZkZG44NTVpOGY2eGlmZ2h6Yjg1dThmbHdrNnZlYnAzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>   
 
-* 🌍  I'm based in Baku
-* ✉️  You can contact me at [ledimaksim@mail.ru](mailto:ledimaksim@mail.ru)
-* 🧠  I'm learning a new framework
-* ⚡  I'm secretly a princess, but don't tell anybody
+### :woman_technologist: About Me :
+
+* I am a Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.
+
+- :fleur_de_lis: I’m taking a Skypro testing course
+- :fleur_de_lis: In my spare time I read articles to develop my knowledge and skills
+- :fleur_de_lis: At the moment I work at the airport
+  
 
 ### Skills
 
