@@ -1,4 +1,6 @@
-Hi ![]<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/bfKbFdoV01zD8aG7Hv/video" width="480"></iframe></div>My name is Irada
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="100"/>
+</div>
 =============================================================================================================================
 
 * 🌍  I'm based in Baku
