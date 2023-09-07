@@ -28,7 +28,8 @@
 
 ### :dizzy: Навыки и Технологии :
 
-- Инструменты анализы данных: ``SQL`` , ``Excell``
+- Инструменты анализы данных: ``SQL`` , ``Excell``  ![image](https://github.com/IradaZamanova/IradaZamanova/assets/144241308/f8692b67-2439-45c2-9651-9e7e1beb5571)
+
 - Системы управления базами данных : ``MySQL`` , ``PostgreSQL`` 
 - Работа с баг-трекинговыми системами : ``Jira`` , ``Trello`` 
 - Работа с доской Miro, DevTools, Postman, SOAP, Mockoon, PowerShell. 
