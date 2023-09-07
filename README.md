@@ -11,7 +11,7 @@
 - :fleur_de_lis: Я учусь он-лайн на курсах SkyPro от Skyeng, но я уже умею проводить ручное и автоматическое тестирование, работать с системами баг-трекинга, автоматизировать тестирование
 - :fleur_de_lis: В свободное время я читаю статьи, чтобы глубже изучить тестирование и набраться больше навыка.
 - :fleur_de_lis: На данный момент я работаю в грузовом аэропорту
-- <div id="badges">
+- :fleur_de_lis: Мои социальные сети : <div id="badges">
   <a href="https://www.instagram.com/iradiik/">
     <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
