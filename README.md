@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazY0d2c3YWZkZG44NTVpOGY2eGlmZ2h6Yjg1dThmbHdrNnZlYnAzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>   
 
-                                <div id="badges">
+<div id="badges">
 https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge
 https://img.shields.io/badge/Facebook-navy?logo=facebook&logoColor=white&style=for-the-badge
 https://img.shields.io/badge/vk-blue?logo=vk&logoColor=white&style=for-the-badge
