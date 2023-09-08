@@ -48,7 +48,9 @@
 
 ---
 
-[Ссылка на проект](https://irada.atlassian.net/wiki/spaces/~5d8fabfdc26b6a0dcb0d85c7/pages/491521/1+2) 
+[Ссылка на проект](https://eastern-butter-1b2.notion.site/1-2-e67e325458264e8d85c56e0adc248365 ) 
+[Ссылка на скриншоты](https://eastern-butter-1b2.notion.site/e17f00981c5c4432a8174027d3c33a79) 
+
 
 ---
 
