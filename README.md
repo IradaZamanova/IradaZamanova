@@ -50,8 +50,6 @@
 
 --[Ссылка на проект](https://eastern-butter-1b2.notion.site/1-2-e67e325458264e8d85c56e0adc248365 ) 
 
---[Ссылка на скриншоты](https://eastern-butter-1b2.notion.site/e17f00981c5c4432a8174027d3c33a79) 
-
 
 ---
 
